@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ola.controller"},{"l":"ola.model"},{"l":"ola.model.card"},{"l":"ola.model.square"},{"l":"ola.view"}];updateSearchResults();
